@@ -20,3 +20,6 @@ To solve these problems gradient magnitude and direction is used for image smoot
 
 # Canny edge detection on an image smoothed by gradient analysis
 <img src="https://github.com/indranarendra/Image-Smoothing-Algorithm-using-Gradient-Analysis/blob/main/4.png">
+
+
+This method was proposed in https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9117646
