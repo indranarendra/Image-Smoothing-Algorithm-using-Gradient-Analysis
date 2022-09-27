@@ -22,4 +22,4 @@ To solve these problems gradient magnitude and direction is used for image smoot
 <img src="https://github.com/indranarendra/Image-Smoothing-Algorithm-using-Gradient-Analysis/blob/main/4.png">
 
 
-This method was proposed in <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9117646">here</a>.</br>
+This method was proposed <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9117646">here</a>.</br>
